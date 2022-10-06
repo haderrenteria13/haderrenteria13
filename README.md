@@ -9,6 +9,7 @@ Trato de buscar siempre informacion para mejorar dia tras dia en cada uno de los
 ## 📱 Contactame
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hader-renteria-565119240/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![instagram](https://img.shields.io/badge/instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
 
 ## 🛠 Lenguajes que manejo
   <p>Programming Languages</p>
