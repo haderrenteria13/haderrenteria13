@@ -1,11 +1,4 @@
-![Hader](https://github.com/haderrenteria13/haderrenteria13/assets/106301008/7e06f194-1475-4e16-a6ac-3400db1f0945)
-
-## 🚀 About Me
-
-- 🌐 Currently diving into the fascinating world of frontend development.
-- 📚 Studying React and Astro to craft delightful user experiences.
-- 🎨 Passionate about design and creating visually appealing interfaces.
-- 🎵 Music enthusiast, because programming and beats go hand in hand.
+![Banner with Blur Highlights](https://github.com/haderrenteria13/haderrenteria13/assets/106301008/39e79e97-8923-43e6-9f36-42c14e41967b)
 
 ## 📬 Get in Touch
 
