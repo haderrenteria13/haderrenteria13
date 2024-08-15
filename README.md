@@ -7,6 +7,5 @@ const Hader = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["Angular", "React", "Vue", "firebase"],
   desing: ["Photoshop", "Figma", "AdobeXD"],
-  preprocessor: ["SASS"],
 }
 ```
