@@ -4,8 +4,8 @@
 ### Un poco de mi ☝🏿:
 ```javascript
 const Hader = {
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["Angular", "React", "Vue", "firebase"],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["Angular", "React", "Astro"],
   desing: ["Photoshop", "Figma", "AdobeXD"],
 }
 ```
