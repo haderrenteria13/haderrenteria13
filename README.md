@@ -4,9 +4,9 @@
 ### Un poco de mi ☝🏿:
 ```javascript
 const Hader = {
-  code: ["Javascript", "HTML", "CSS", Python],
+  code: ["Javascript", "HTML", "CSS", "Python"],
   tools: ["ReactJS", "Django",  "Astro", "tailwindcss", "Bootstrap"],
   database: ["MongoDB", "MySQL"]
-  desing: ["Photoshop", "Figma", "AdobeXD"],
+  desing: ["Figma", "Photoshop"],
 }
 ```
