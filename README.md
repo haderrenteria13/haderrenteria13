@@ -6,7 +6,7 @@
 const Hader = {
   code: ["Javascript", "HTML", "CSS", "Python"],
   tools: ["ReactJS", "Django",  "Astro", "tailwindcss", "Bootstrap"],
-  database: ["MongoDB", "MySQL"]
+  database: ["MongoDB", "MySQL"],
   desing: ["Figma", "Photoshop"],
 }
 ```
